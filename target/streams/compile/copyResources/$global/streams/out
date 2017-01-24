@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/workspace/jwt-play-authentication-demo/conf/routes,/home/knoldus/workspace/jwt-play-authentication-demo/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/workspace/jwt-play-authentication-demo/conf/logback.xml,/home/knoldus/workspace/jwt-play-authentication-demo/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/workspace/jwt-play-authentication-demo/conf/application.conf,/home/knoldus/workspace/jwt-play-authentication-demo/target/scala-2.11/classes/application.conf)[0m
